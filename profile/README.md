@@ -1,4 +1,20 @@
-## Hi there 👋
+# Open AM GitHub
+
+The Open Additive Manufacturing Initiative was a 5-year project at the Technical University of Denmark, and was funded by the Poul Due Jensen Foundation.
+Bla bla so open
+
+## Purpose and impetus
+
+## Main Activities
+
+### Processes
+
+### Machines
+
+### Academic Outcome
+
+## Hello we are so open
+
 
 <!--
 
