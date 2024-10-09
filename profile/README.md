@@ -1,5 +1,11 @@
 # Open AM GitHub
 
+<p align="center"><img src="Assets/OpenAMini.png" height="150" alt="Open Additive Initiative logo" /></p>
+<h1 align="center">The DTU Open Additive Initiative, Laser-Based Powder Bed Fusion Repo</h1>
+
+# OpenAM
+<p align="center"><img src="Assets/DTU_Logo.png" height="100" alt="DTU logo" /></p>
+
 The Open Additive Manufacturing Initiative was a 5-year project at the Technical University of Denmark, and was funded by the Poul Due Jensen Foundation.
 Bla bla so open
 
