@@ -1,7 +1,10 @@
 # Open AM GitHub
 
 <p align="center"><img src="/profile/OpenAMini.png" height="150" alt="Open Additive Initiative logo" /></p>
-<h1 align="center">The DTU Open Additive Initiative Repo</h1>
+<h1 align="center">The DTU Open Additive Initiative Profile</h1>
+
+### What you will find
+The Open AM profile owns several repositories each containing the documentation about specific systems or sub-systems. These repos are a mixture of hardware, software, firmware, etc. Some of the repos are dependencies of other sub-systems, some will be main repos that link the dependencies, and some will be more standalone.
 
 # OpenAM
 <p align="center"><img src="/profile/DTU_Logo.png" height="100" alt="DTU logo" /></p>
