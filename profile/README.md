@@ -1,7 +1,7 @@
 # Open AM GitHub
 
 <p align="center"><img src="/profile/OpenAMini.png" height="150" alt="Open Additive Initiative logo" /></p>
-<h1 align="center">The DTU Open Additive Initiative, Laser-Based Powder Bed Fusion Repo</h1>
+<h1 align="center">The DTU Open Additive Initiative Repo</h1>
 
 # OpenAM
 <p align="center"><img src="/profile/DTU_Logo.png" height="100" alt="DTU logo" /></p>
