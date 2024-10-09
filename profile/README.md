@@ -16,6 +16,8 @@ Bla bla so open
 
 ## Main Activities
 
+<p align="center"><img src="/profile/image.png" height="100" alt="DTU logo" /></p>
+
 ### Processes
 
 ### Machines
